@@ -74,15 +74,13 @@ and integration with real-time market data sources.
 ├── README.md
 ├── requirements.txt
 
-
-</>
-Author
-
+## Author
 Homa Rad
 
-# Requirements
-pandas
-numpy
-matplotlib
-scikit-learn
-xgboost
+## Requirements
+
+pandas  
+numpy  
+matplotlib  
+scikit-learn  
+xgboost  
