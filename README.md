@@ -69,7 +69,6 @@ and integration with real-time market data sources.
 
 # Project Structure
 
-```bash
 ├── real_estate_price_prediction.ipynb
 ├── README.md
 ├── requirements.txt
