@@ -66,3 +66,21 @@ advanced geospatial feature engineering,
 hyperparameter optimization,
 deployment as an interactive web application,
 and integration with real-time market data sources.
+
+# Project Structure
+
+```bash
+├── real_estate_price_prediction.ipynb
+├── README.md
+├── requirements.txt
+
+Author
+
+Homa Rad
+
+# Requirements
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
